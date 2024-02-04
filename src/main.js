@@ -1,3 +1,9 @@
+//이전 버전의 app.js
+//참고용. 더 이상 안 씀!
+
+
+
+
 import WebTorrent from 'webtorrent';
 import fs from "fs";
 import ffmpegPath from "ffmpeg-static";
